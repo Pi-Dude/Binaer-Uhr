@@ -1,4 +1,4 @@
-# Bin-r-Uhr
+# Binär-Uhr
 Selfmade Binary Clock
 
 
