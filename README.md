@@ -18,7 +18,9 @@ PlatformIO → Upload
 or via terminal:
 pio run -t clean
 pio run -t upload
-------------------------------------------------------------------------------------------------
+------------------------------------------------
+
+
 * **Binary time display**
 
   * Hours shown as a **5-bit LED row**
